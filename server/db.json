@@ -1,0 +1,72 @@
+{
+  "perfil": [
+    {
+      "cpf": "79349886057",
+      "name": "Aurora Tereza Regina Jesus",
+      "signo": "Áries",
+      "email": "aurora-jesus94@moyageorges.com.br",
+      "telefone": "91988285303",
+      "tipo_sanguineo": "B+",
+      "resumo": "Eu gosto de mim porque sou bom mesmo",
+      "competencias": ["react","php"],
+      "data_nascimento": "1983-04-12",
+      "experiencia": [
+        {
+          "empresa": "Maratar",
+          "tempo": "10 anos",
+          "cargo": "Entregador de Café",
+          "sua_empresa_atual": true
+        } ,
+        {
+          "empresa": "Maratar",
+          "tempo": "10 anos",
+          "cargo": "Entregador de Café nivel 2",
+          "sua_empresa_atual": true
+        }
+      ],
+      "formação": [
+        {
+          "instituicao": "FANESE",
+          "curso": "Faz tudo"
+        },
+        {
+          "instituicao": "Pio Decimo",
+          "curso": "Faz tudo II"
+        }
+      ]
+    }
+  ],
+  "signos": [
+    "Áries",
+    "Touro",
+    "Gêmeos",
+    "Câncer",
+    "Leão",
+    "Virgem",
+    "Libra",
+    "Escorpião",
+    "Sagitário",
+    "Capricórnio",
+    "Aquário",
+    "Peixes"
+  ],
+  "tipos-sanguineos": [
+    "A+",
+    "B+",
+    "O+",
+    "AB+",
+    "A-",
+    "B-",
+    "O-",
+    "AB-"
+  ],
+  "competencias": [
+    "php",
+    "java",
+    "react",
+    "angular",
+    "node",
+    "javascript",
+    "vue"
+  ]
+}

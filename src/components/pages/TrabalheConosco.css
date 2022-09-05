@@ -1,0 +1,12 @@
+.trabalhe-conosco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 4.5em;
+}
+
+.trabalhe-conosco h1 {
+    margin-top: .5em;
+}
+
