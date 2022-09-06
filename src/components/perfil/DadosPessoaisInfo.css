@@ -1,0 +1,19 @@
+.div-perfil {
+    font-size: .9em;
+    width: 100%;
+    color: #868686;
+    border-bottom: 1px solid #DEDDDD ;
+    padding: 1em 1em;
+}
+.info-group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info-group label{
+    margin-right: .3em;
+    font-weight: 500;
+}
+.info-group span{
+    margin-top: .5em;
+}

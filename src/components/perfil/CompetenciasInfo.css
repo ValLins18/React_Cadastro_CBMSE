@@ -1,0 +1,14 @@
+.competencias{
+    background-color: #9BD26F;
+    border: 1px solid #EFEFEF;
+    border-radius: 11px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ffffff;
+    padding: .4em;
+    margin: .4em;
+}
+.div-perfil h5 {
+    margin-bottom: 1em;
+}
