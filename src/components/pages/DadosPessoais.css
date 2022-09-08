@@ -1,0 +1,52 @@
+.dados-pessoais{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+}
+.progresso{
+    width: 60%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo-estacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+.barra{
+    height: 8px;
+    width: 30%;
+}
+
+.filled{
+    background-color: #429542;
+}
+
+.filling{
+    background: linear-gradient(100.23deg, #D42F43 -23.11%, rgba(211, 130, 62, 0.73) 126.59%);;
+}
+
+.to-fill{
+    background-color: #C4C4C4;
+}
+
+
+#name{
+    grid-column: span 2;
+}
+
+.group-btn{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
